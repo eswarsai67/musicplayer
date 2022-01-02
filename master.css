@@ -1,0 +1,84 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  color : white;
+}
+.nav{
+  background-color: #121212;
+}
+.letter{
+  color : yellow;
+}
+.head{
+  color : white;
+}
+.btsimg{
+  width : 100%;
+  height : 70%;
+}
+.audiobar1{
+  width : 100%;
+}
+.but{
+  text-align: center;
+  margin-left : 40vw;
+}
+.play1{
+  margin-left: 42vw;
+}
+.audiobar2{
+  width : 100%;
+}
+#btsscroll{
+  display: none;
+  margin-bottom: 200px;
+}
+.otimg{
+  width : 100%;
+  height : 70%;
+}
+.but2{
+  margin-left : 40vw;
+}
+.otpro{
+  width : 100%;
+}
+#otscroll{
+  display: none;
+  margin-bottom: 200px;
+}
+#ssong{
+  margin-left : 40vw;
+}
+.justinimg{
+  width : 100%;
+  height : 70%;
+}
+.but3{
+  margin-left: 40vw;
+}
+.gunapro{
+  width : 100%;
+}
+#gunascroll{
+  display : none;
+  margin-bottom: 200px;
+}
+.a{
+  margin-left : 29vw;
+}
+.b{
+  margin-left: 25vw;
+}
+.last{
+  background-color: #121212;
+  color : white;
+}
+.first{
+  background-color: #121212;
+}
+.second{
+  background-color: #121212;
+}
+.third{
+  background-color: #121212;
+}
